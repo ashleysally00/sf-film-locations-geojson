@@ -3,7 +3,7 @@
 DataSF | Open Data Portal
 
 
-view locations in table  
+view locations in FilmLocations table  
 
 ```sql
 SELECT * FROM FilmLocations;
