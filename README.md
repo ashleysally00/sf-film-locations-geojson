@@ -8,3 +8,7 @@ view locations in FilmLocations table
 ```sql
 SELECT * FROM FilmLocations;
 ```
+
+```sql
+SELECT FunFacts FROM FilmLocations 
+```
